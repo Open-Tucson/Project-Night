@@ -8,7 +8,7 @@ You don't need to be a coder to participate! Volunteers from all walks of life a
 ## How to find a project
 - Join our [Meetup](https://www.meetup.com/Code-for-Tucson/) and [Slack](https://codefortucson.slack.com/)
 - Take a look at our [Code for Tucson Website](https://www.codefortucson.com/)
-- Explore our [existing projects](https://github.com/orgs/CodeForTucson/projects) or start your own!
+- Explore our [existing projects](https://github.com/orgs/Open-Tucson/projects) or start your own!
 - Once you find one you're interested in, feel free to pick up an issue, or create something you think would be helpful! For beginners, try to look for issues tagged with ["good first issue"](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+label%3A%22good+first+issue%22+user%3AOpen-Tucson)
  
  ## How to contribute 
