@@ -16,7 +16,7 @@ You don't need to be a coder to participate! Volunteers from all walks of life a
 If you're a beginner, join our biweekly meetings. A good first contribution would be to log our meeting notes in this repo. We'll help you out with this, but if you'd like to try it yourself, see [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
  ### Content/Ideas
- If you're not a coder, join a Slack Channel related to a project of interest and say hello!
+ If you're not a coder, join a Discord channel related to a project of interest and say hello!
  
  ## Code of Conduct
  See our Code of Conduct [here](https://www.codefortucson.com/code-of-conduct/)
