@@ -7,13 +7,12 @@ You don't need to be a coder to participate! Volunteers from all walks of life a
 
 ## How to find a project
 - Join our [Meetup](https://www.meetup.com/Code-for-Tucson/) and [Discord](https://discord.gg/ghQcTSNU7d)
-- Take a look at our [Code for Tucson Website](https://www.codefortucson.com/)
 - Explore our [existing projects](https://github.com/orgs/Open-Tucson/projects) or start your own!
 - Once you find one you're interested in, feel free to pick up an issue, or create something you think would be helpful! For beginners, try to look for issues tagged with ["good first issue"](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+label%3A%22good+first+issue%22+user%3AOpen-Tucson)
  
  ## How to contribute 
  ### Code
-If you're a beginner, join our biweekly meetings. A good first contribution would be to log our meeting notes in this repo. We'll help you out with this, but if you'd like to try it yourself, see [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+If you're a beginner, join our twice a month meetings (first and third Wednesdays). A good first contribution would be to log our meeting notes in this repo. We'll help you out with this, but if you'd like to try it yourself, see [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
  ### Content/Ideas
  If you're not a coder, join a Discord channel related to a project of interest and say hello!
